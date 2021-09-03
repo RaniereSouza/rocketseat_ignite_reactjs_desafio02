@@ -1,7 +1,7 @@
 import { useMovies } from './hooks/useMovies';
 
-import { SideBar }   from './components/SideBar';
-import { Content }   from './components/Content';
+import { SideBar } from './components/SideBar';
+import { Content } from './components/Content';
 
 import './styles/global.scss';
 
